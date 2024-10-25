@@ -1,5 +1,5 @@
 # EX-7-DATA-ENCRYPTION-STANDARD ALGORITHM
-
+## DATE:
 ## Aim:
   To use Data Encryption Standard (DES) Algorithm for a practical application like URL Encryption.
 
@@ -10,7 +10,8 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM:
-```Developed by:Harini V
+```
+Developed by:Harini V
 Register no.: 212222230044
 ```
 ```
