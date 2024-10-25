@@ -1,7 +1,7 @@
-# EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-7-DATA-ENCRYPTION-STANDARD ALGORITHM
 
 ## Aim:
-  To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
+  To use Data Encryption Standard (DES) Algorithm for a practical application like URL Encryption.
 
 ## ALGORITHM: 
   1. AES is based on a design principle known as a substitution–permutation. 
@@ -49,4 +49,4 @@ return 0;
 
 
 ## RESULT: 
-Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
+Thus , to use Data Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
